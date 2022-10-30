@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.PlayEy {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 66px;
+	height: 66px;
+	background: url(../img/bg_circle.png) no-repeat center;
+}
+
+
+.Play {
+	position: absolute;
+	width: 29px;
+	height: 36px;
+	background: red;
+	background: url(../img/pause.png) no-repeat;
+	transition: .5s;
+}
+.btns-bg {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 30px auto;
+	width: 65px;
+	height: 65px;
+}
+
+	
+@keyframes Btn-bg {
+	from {
+		transition: 0.5s ease-in
+		}
+	to {
+		transform: rotate(360deg);
+	}
+}

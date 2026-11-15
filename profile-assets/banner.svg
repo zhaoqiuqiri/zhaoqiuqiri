@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">zhaoqiuqiri — GitHub Profile</title>
+<desc id="desc">An original dark terminal-inspired banner with violet and cyan accents.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171724"/><stop offset="1" stop-color="#25213d"/></linearGradient><linearGradient id="accent"><stop stop-color="#bd93f9"/><stop offset="1" stop-color="#8be9fd"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#bd93f9" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<rect x="40" y="38" width="1120" height="264" rx="14" fill="#191924" stroke="#44415d"/>
+<path d="M40 82H1160" stroke="#44415d"/><circle cx="65" cy="60" r="6" fill="#ff5555"/><circle cx="85" cy="60" r="6" fill="#f1fa8c"/><circle cx="105" cy="60" r="6" fill="#50fa7b"/>
+<text x="600" y="65" text-anchor="middle" fill="#9290a8" font-family="monospace" font-size="13">profile / README.md</text>
+<text x="78" y="126" fill="#50fa7b" font-family="monospace" font-size="18">$ hello, world</text>
+<text x="76" y="190" fill="#f8f8f2" font-family="Verdana, sans-serif" font-size="54" font-weight="700">zhaoqiuqiri</text>
+<rect x="78" y="212" width="330" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="78" y="255" fill="#b9b4d0" font-family="monospace" font-size="18">CODE · EXPLORE · BUILD</text>
+<text x="1010" y="205" text-anchor="middle" fill="#bd93f9" font-family="monospace" font-size="88" opacity=".8">&lt;/&gt;</text>
+</svg>
